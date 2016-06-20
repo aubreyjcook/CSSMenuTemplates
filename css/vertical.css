@@ -1,0 +1,38 @@
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	}
+
+#menu {
+	width: 200px;
+	margin-top: 10px;
+	}
+	
+#menu li a {
+  	height: 32px;
+  	voice-family: "\"}\""; 
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	}
+		
+	
+#menu li a:link, #menu li a:visited {
+	color: #E5E8D4;
+	display: block;
+	background: url(../images/menu.gif);
+	padding: 8px 0 0 10px;
+	}
+	
+#menu li a:hover {
+	color: #725033;
+	background: url(../images/menu.gif) 0 -32px;
+	padding: 8px 0 0 10px;
+	}
+	
+#menu li a:active {
+	color: #fff;
+	background: url(../images/menu.gif) 0 -64px;
+	padding: 8px 0 0 10px;
+	}
