@@ -60,14 +60,48 @@
         </nav>
         <main>
             <div id="menu">
-                <ul>
-                    <li><a href="http://www.free-css.com/">CSS Templates</a></li>
-                    <li><a href="http://www.free-css.com/">CSS Layouts</a></li>
-                    <li><a href="http://www.free-css.com/">CSS Books</a></li>
-                    <li><a href="http://www.free-css.com/">CSS Menus</a></li>
-                    <li><a href="http://www.free-css.com/">CSS Tutorials</a></li>
-                    <li><a href="http://www.free-css.com/">CSS Reference</a></li>
-                    <li><a rel="nofollow" target="_blank" href="http://www.e-lusion.com/" title="E-lusion">E-lusion</a></li>
+                <ul id="simple-menu">
+                    <li>
+                        <a href="../index.html">
+                            <span>Main Web 115 Index</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="../01Emmet/index.html">
+                            <span>Learning Emmet</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="../semantic/index.html">
+                            <span>Semantic Markup</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="../photoGallery/index.html">
+                            <span>Responsive Photo Gallery</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="../PHPLab/index.php">
+                            <span>PHP Lab</span>
+                        </a>
+                        <ul>
+                            <li>
+                                <a href="../PHPLab/page01.php">Page 01</a>
+                            </li>
+                            <li>
+                                <a href="../PHPLab/page02.php">Page 02</a>
+                            </li>
+                            <li>
+                                <a href="../PHPLab/page03.php">Page 03</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="../JavaScriptLab/index.php">
+                            <span>Javascript Lab</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </main>
